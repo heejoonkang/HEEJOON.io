@@ -1,0 +1,16 @@
+---
+title: "Heejoon Kang"
+image: profile.jpg
+about:
+  template: jolla
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://linkedin.com
+    - icon: github
+      text: Github
+      href: https://github.com/heejoonkang
+
+---
+
+데이터 분석 병아리의 블로그입니다.
