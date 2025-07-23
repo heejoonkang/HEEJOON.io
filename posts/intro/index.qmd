@@ -1,7 +1,8 @@
 ---
-title: "intro"
+title: "introdction"
 author: "Heejoon Kang"
-date: "2025-07-22"
-categories: [news]
+date: "2025-07-23"
+categories: [myself]
 ---
 
+안녕하세요, 강희준입니다. 96년생이고 경기도 파주시에 거주하고 있습니다.
